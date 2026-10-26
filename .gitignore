@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.log
+.env*
+!.env.example
+/Character_introducing_himself_in*.mp4
+/intro_video_closeup.mp4
+/Relaxed 3D Character in White Studio.png
+/Tejas Bhosale Resume.pdf
